@@ -44,16 +44,14 @@ This system uses:
 
 * Real-time webcam input
 * MediaPipe Hands tracking
-* Multi-layer particle engine
-* Lightning multi-pass glow rendering
+* Multi layer particle engine
+* Lightning multi pass glow rendering
 * Dynamic radial lighting
 * Gesture-based energy intensity modulation
 
-It is a fully browser-based cinematic engine powered by advanced Canvas blending modes.
-
 ---
 
-## 🔥 Core Powers
+##  Core Powers
 
 ### 1️⃣ Fire + Ice Mode
 
@@ -77,7 +75,7 @@ It is a fully browser-based cinematic engine powered by advanced Canvas blending
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Key | Mode       |
 | --- | ---------- |
@@ -93,39 +91,6 @@ It is a fully browser-based cinematic engine powered by advanced Canvas blending
 
 ---
 
-## 🧠 Technical Architecture
-
-### 🔹 Vision Engine
-
-* MediaPipe Hands (2 hand tracking)
-* Landmark smoothing
-* Pinch detection with velocity filtering
-* Hand open detection via distance comparison
-
-### 🔹 Particle System
-
-* Velocity-based emission
-* Life decay model
-* Type-based color gradients
-* Surge amplification system
-
-### 🔹 Lightning Renderer
-
-* Path-based bolt generation
-* Triple-pass rendering:
-
-  * Wide glow stroke
-  * Medium energy stroke
-  * Sharp core stroke
-
-### 🔹 Cinematic Lighting
-
-* Multiply dark overlay
-* Screen blending for glow
-* Lighter composite for particles
-* Radial gradient aura simulation
-
----
 
 ## 📂 Project Structure
 
@@ -135,9 +100,6 @@ Cinematic-Fire-Engine/
 ├── index.html
 └── README.md
 ```
-
-Everything runs inside a single optimized HTML file.
-No backend. No frameworks. Pure browser power.
 
 ---
 
