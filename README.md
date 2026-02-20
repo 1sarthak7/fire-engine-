@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:00c6ff&height=250&section=header&text=CINEMATIC%20FIRE%20ENGINE&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Real-Time%20Hand%20Gesture%20Energy%20System&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:00c6ff&height=250&section=header&text=%20FIRE%20ENGINE&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Real-Time%20Hand%20Gesture%20Energy%20System&descAlignY=55&descSize=18" width="100%" />
 
 <br/>
 
