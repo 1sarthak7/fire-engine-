@@ -27,6 +27,38 @@
         video {
             display: none;
         }
+        .watermark {
+            position: fixed;
+            bottom: 20px;
+            right: 25px;
+            z-index: 9999;
+            font-size: 14px;
+            letter-spacing: 1px;
+            font-weight: 500;
+            opacity: 0.5;
+            transition: all 0.4s ease;
+            pointer-events: auto;
+        }
+        
+        .watermark a {
+            text-decoration: none;
+            color: rgba(255, 255, 255, 0.8);
+            font-family: 'Courier New', monospace;
+        }
+        
+        .watermark:hover {
+            opacity: 1;
+            transform: translateY(-3px);
+        }
+        
+        .watermark:hover a {
+            color: #00c6ff;
+            text-shadow: 
+                0 0 8px rgba(0,198,255,0.6),
+                0 0 18px rgba(0,198,255,0.4);
+        }
+
+        
     </style>
 </head>
 
