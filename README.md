@@ -11,6 +11,7 @@
 
 <br/><br/>
 
+  
 <h3> A Cinematic Real‑Time Gesture Controlled Energy System </h3>
 
 <p>
@@ -35,7 +36,8 @@ Control Fire, Ice, Lightning, Red Energy, and Blue Energy directly through gestu
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🚀 Overview
 
 This system uses:
@@ -178,6 +180,8 @@ No backend. No frameworks. Pure browser power.
 * Multiplayer gesture battle mode
 
 ---
+
+</div>
 
 <div align="center">
 
